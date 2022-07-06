@@ -10,5 +10,5 @@
 ><p>python -m virtualenv env</p>
 ><p>source env/Scripts/activate</p>
 
-### launch the application - 
+### Launch the application - 
 >python manage.py runserver
